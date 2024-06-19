@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Mobile App Development**
 
-- 📫 How to reach me **ajmalik03082@gmail.com**
+- 📫 How to reach me **ajmal@ceventech.com**
 
 - ⚡ Fun fact **Coffee Powered Sorting: Software engineers can spend hours debating the most efficient algorithm for a simple task, like sorting a list of numbers. It's a caffeinated battle for algorithmic supremacy!**
 

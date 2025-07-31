@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M Ajmal Malik</h1>
+<h1 align="center">Hi 👋, I'm Ajmal </h1>
 <h3 align="center">Driven by a thirst for knowledge and a love of building with code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajma1&label=Profile%20views&color=0e75b6&style=flat" alt="ajma1" /> </p>

@@ -51,8 +51,8 @@ I design the systems before I write the code — then I write the code. My work 
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,fastapi,mongodb,mysql,androidstudio,tensorflow,opencv,git,github,figma&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,fastapi,mongodb,mysql,androidstudio,tensorflow,opencv,git,github,figma&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cmongodb%2Cmysql%2Candroidstudio%2Ctensorflow%2Copencv%2Cgit%2Cgithub%2Cfigma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cmongodb%2Cmysql%2Candroidstudio%2Ctensorflow%2Copencv%2Cgit%2Cgithub%2Cfigma&theme=light">
 </picture>
 
 <br>

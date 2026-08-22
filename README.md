@@ -61,17 +61,8 @@ I design the systems before I write the code — then I write the code. My work 
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ajma1&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=E6E6E6&text_color=B0B0B0&icon_color=E6E6E6&rank_icon=percentile">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajma1&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=4A4A4A&icon_color=1A1A1A&rank_icon=percentile" width="48%">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ajma1&theme=dark&hide_border=true&background=00000000&stroke=E6E6E6&ring=E6E6E6&fire=E6E6E6&currStreakLabel=E6E6E6">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajma1&theme=default&hide_border=true&background=00000000&stroke=1A1A1A&ring=1A1A1A&fire=1A1A1A&currStreakLabel=1A1A1A" width="48%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajma1&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=E6E6E6&text_color=B0B0B0">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajma1&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=4A4A4A" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajma1&theme=default&hide_border=true&background=00000000&stroke=1A1A1A&ring=1A1A1A&fire=1A1A1A&currStreakLabel=1A1A1A" width="60%">
 </picture>
 
 <br>

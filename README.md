@@ -1,26 +1,94 @@
-<h1 align="center">Hi 👋, I'm Ajmal </h1>
-<h3 align="center">Driven by a thirst for knowledge and a love of building with code.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajma1&label=Profile%20views&color=0e75b6&style=flat" alt="ajma1" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1200&color=E6E6E6&center=true&vCenter=true&width=600&height=70&lines=Ajmal;Founder+%26+Software+Architect;Senior+Product+Manager;Building+systems+that+remember+and+reason">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1200&color=1A1A1A&center=true&vCenter=true&width=600&height=70&lines=Ajmal;Founder+%26+Software+Architect;Senior+Product+Manager;Building+systems+that+remember+and+reason" alt="Typing SVG">
+</picture>
 
-- 🔭 I’m currently working on **Super App**
+<sub>Architecture, product, and a running list of things worth building</sub>
 
-- 🌱 I’m currently learning **React Native.**
+<br>
 
-- 🤝 I’m looking for help with **Mobile App Development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ajmal-malik/)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ajmal@ceventech.com)
 
-- 📫 How to reach me **ajmal@ceventech.com**
+</div>
 
-- ⚡ Fun fact **Coffee Powered Sorting: Software engineers can spend hours debating the most efficient algorithm for a simple task, like sorting a list of numbers. It's a caffeinated battle for algorithmic supremacy!**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-ajmal-malik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-ajmal-malik/" height="30" width="40" /></a>
-</p>
+I design the systems before I write the code — then I write the code. My work sits at the join of product strategy and technical architecture: deciding what should exist, then making sure it's built to hold weight. Right now that means running point on four builds at once, from consumer mobile to enterprise memory infrastructure to multi-model AI systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajma1&show_icons=true&locale=en&layout=compact" alt="ajma1" /></p>
+### Building
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajma1&show_icons=true&locale=en" alt="ajma1" /></p>
+<table>
+<tr>
+<td width="20%"><b>SuperApp</b></td>
+<td>An all-in-one consumer app — social, commerce, and services unified into a single mobile experience.</td>
+</tr>
+<tr>
+<td><b>B2 · Business Brain</b></td>
+<td>A native memory operating system for organizations — enterprise knowledge that's actually structured, versioned, and retrievable, not scattered across tools.</td>
+</tr>
+<tr>
+<td><b>MaestroGTM</b></td>
+<td>The GTM engine for Maestro Labs — generates LinkedIn content that sounds like <i>you</i>, not a template.</td>
+</tr>
+<tr>
+<td><b>LLM Baithak</b></td>
+<td>A "council" of frontier models — GPT, Gemini, Claude, Grok — that answer independently, cross-review each other anonymously, and hand the final call to a Chairman model. A weekend build that turned into the best way I've found to actually trust an AI answer.</td>
+</tr>
+</table>
+
+<br>
+
+**Currently**
+🏗️ Architecting SuperApp end-to-end · 🧠 Deep in multi-agent LLM systems · 📚 Learning something new every day, on principle
+
+<br>
+
+### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,fastapi,mongodb,mysql,androidstudio,tensorflow,opencv,git,github,figma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,fastapi,mongodb,mysql,androidstudio,tensorflow,opencv,git,github,figma&theme=light">
+</picture>
+
+<br>
+<br>
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ajma1&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=E6E6E6&text_color=B0B0B0&icon_color=E6E6E6&rank_icon=percentile">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajma1&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=4A4A4A&icon_color=1A1A1A&rank_icon=percentile" width="48%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ajma1&theme=dark&hide_border=true&background=00000000&stroke=E6E6E6&ring=E6E6E6&fire=E6E6E6&currStreakLabel=E6E6E6">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajma1&theme=default&hide_border=true&background=00000000&stroke=1A1A1A&ring=1A1A1A&fire=1A1A1A&currStreakLabel=1A1A1A" width="48%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajma1&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=E6E6E6&text_color=B0B0B0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajma1&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=1A1A1A&text_color=4A4A4A" width="40%">
+</picture>
+
+<br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajma1/Ajma1/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ajma1/Ajma1/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+<br>
+
+<sub>I once put GPT-5.1, Gemini 3 Pro, Claude Sonnet 4.5, and Grok 4 in a room, made them argue over the same question, then had a fifth model decide who was right. It works better than asking just one.</sub>
+
+<br>
+
+![Visitors](https://komarev.com/ghpvc/?username=Ajma1&style=flat-square&color=1a1a1a&label=views)
+
+</div>
